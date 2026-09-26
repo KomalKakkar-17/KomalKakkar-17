@@ -50,6 +50,10 @@ device identity hashing (IMEI simulation), mock permissioned blockchain audit, t
 
 [🔗 View Repository](https://github.com/KomalKakkar-17/isb-hack-mvp)
 
-Links to reach me:
+
+## 🔗 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/komal-kakkar/)  
+[Email](kakkarkomal17@gmail.com)
 
 
