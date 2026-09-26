@@ -24,7 +24,7 @@ AI-powered ANPR and traffic intelligence platform.
 
 **Tech:** YOLOv8 | FastALPR | PaddleOCR | FastAPI | React
 
-[🔗 View Repository](https://github.com/YOUR_USERNAME/SylRak)
+[🔗 View Repository](https://github.com/Hercules-531/SylRak)
 
 ### Network Intrusion Detection using Machine Learning on NSL-KDD
 
@@ -32,7 +32,7 @@ A binary classification project that detects malicious network traffic (attack v
 
 **Tech:** Python 3 | pandas | NumPy | Keras | TensorFlow
 
-[🔗 View Repository](https://github.com/YOUR_USERNAME/SylRak)
+[🔗 View Repository](https://github.com/KomalKakkar-17/nid)
 
 ### Intranet-deployable Quantum-Proof Systems Scanner
 
